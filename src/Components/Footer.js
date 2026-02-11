@@ -1,7 +1,8 @@
 import React from 'react';
 import styled from 'styled-components';
-import { FaFacebookF, FaInstagram, FaYoutube, FaTwitter } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6"; 
+
+import { FaFacebookF, FaInstagram, FaYoutube } from "react-icons/fa";
 
 const FooterSection = styled.footer`
   background-color: #000000;
